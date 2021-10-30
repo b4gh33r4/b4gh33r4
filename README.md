@@ -1,12 +1,12 @@
 <h1 align="center">M. D'Amico</h1>
 
-<h3 align="center">Security Software and Infrastructure Developer</h3>
+<h3 align="center">Cyber Security Specialist</h3>
 
 ### 👨‍💻 About Me
 
 <!-- https://emojipedia.org/ -->
 
-- :necktie: Cyber Security Specialist
+- :necktie: Security Software and Infrastructure Developer
 - :heart: Passionate Researcher
 - :heart: Passionate Developer
 
