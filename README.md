@@ -8,7 +8,8 @@
 <!-- https://emojipedia.org/ -->
 
 - 🖥️ Cyber Security Specialist
-- 🔨 Passionate Developer
+- :heart: Passionate Researcher
+- :heart: Passionate Developer
 
 ---
 
@@ -22,8 +23,6 @@
 
 <!-- https://medium.com/@therafamartins/make-your-customized-badges-in-a-few-minutes-18e75475e271 -->
 
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=ffffff)](mailto:mariodamico@protonmail.com)
-<!--[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=ffffff)](https://scholar.google.com/citations?user=??????????)-->
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=ffffff)](https://orcid.org/0000-0002-2083-2715)
 
 ---
