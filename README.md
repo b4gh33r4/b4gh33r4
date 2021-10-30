@@ -1,19 +1,18 @@
 <h1 align="center">M. D'Amico</h1>
 
 <h3 align="center">Security Software and Infrastructure Developer</h3>
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=b4gh33r4" alt="b4gh33r4" /> </p>-->
 
 ### 👨‍💻 About Me
 
 <!-- https://emojipedia.org/ -->
 
-- 🖥️ Cyber Security Specialist
+- :necktie: Cyber Security Specialist
 - :heart: Passionate Researcher
 - :heart: Passionate Developer
 
 ---
 
-### 🚧 Projects
+### :construction: Projects
 
 - [RedHerd Framework](https://github.com/redherd-project/redherd-framework): A collaborative and serverless framework for orchestrating a geographically distributed group of assets.
 
@@ -48,7 +47,7 @@
 
 ---
 
-### ⚙️ GitHub Analytics
+### :gear: GitHub Analytics
 
 <!-- <p align="center"> -->
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=b4gh33r4&show_icons=true&theme=dark" />
