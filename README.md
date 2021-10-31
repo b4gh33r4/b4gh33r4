@@ -43,6 +43,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logoColor=white&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logoColor=white&logo=mongodb)
+![LaTeX](https://img.shields.io/badge/-LaTeX-green?style=for-the-badge&logo=latex)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown)
 
 ---
