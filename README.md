@@ -15,8 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?&style=for-the-badge&logoColor=white&logo=angular)
-<!--![C](https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logoColor=white&logo=c)-->
-<!--![C++](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logoColor=white&logo=cplusplus)-->
+![.NET](https://img.shields.io/badge/-dotnet-blue?style=for-the-badge&logoColor=white&logo=dotnet)
 ![C Sharp](https://img.shields.io/badge/C%20Sharp-239120?&style=for-the-badge&logoColor=white&logo=csharp)
 ![Java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logoColor=white&logo=java)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?&style=for-the-badge&logoColor=white&logo=gnubash)
@@ -27,3 +26,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logoColor=white&logo=mongodb)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-green?style=for-the-badge&logo=latex)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown)
+![Elasticsearch](https://img.shields.io/badge/-elasticsearch-yellow?style=for-the-badge&logoColor=white&logo=elasticsearch)
+![Logstash](https://img.shields.io/badge/-logstash-blue?style=for-the-badge&logoColor=white&logo=logstash)
+![Kibana](https://img.shields.io/badge/-kibana-ff69b4?style=for-the-badge&logoColor=white&logo=kibana)
+![Beats](https://img.shields.io/badge/-beats-brightgreen?style=for-the-badge&logoColor=white&logo=beats)
+<!--![C](https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logoColor=white&logo=c)-->
+<!--![C++](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logoColor=white&logo=cplusplus)-->
